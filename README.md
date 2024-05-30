@@ -5,7 +5,7 @@ illiberal politik" af Albert Neve Alsbjerg, Laurits Trelborg Kjær & Mourits Han
 
 Specialet blev afleveret den 31. maj 2024 ved Insititut for Statskundskab på Københavns Universitet.
 
-R-koderne er delt i ni:
+R-koden er delt i ni:
 1. Opsætning og indlæsning af R-pakker
 2. Poweranalyse
 3. Indlæsning af data
